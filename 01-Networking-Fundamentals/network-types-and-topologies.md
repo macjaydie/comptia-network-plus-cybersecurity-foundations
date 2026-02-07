@@ -108,7 +108,7 @@ Disadvantages:
 
 
 
-[![Star Topology Diagram](..images/simple-star-topology.drawio.png)]
+[![Star Topology Diagram](../images/simple-star-topology.drawio.png)]
 
 
 
