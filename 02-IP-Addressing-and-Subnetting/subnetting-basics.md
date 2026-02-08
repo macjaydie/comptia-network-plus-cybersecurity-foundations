@@ -28,7 +28,7 @@ Binary:
 
 
 
-![Example Local Subnet from ipconfig Output](../images/Example Local Subnet from ipconfig Output.png)
+![Example Local Subnet from ipconfig Output](../images/example-local-subnet-from-ipconfig-output.png)
 
 
 
